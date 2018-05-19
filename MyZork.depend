@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1526747306 source:d:\codepractice\myzork\enemy.cpp
+	"Enemy.h"
+
+1526747328 d:\codepractice\myzork\enemy.h
+	"Entity.h"
+
+1526746866 d:\codepractice\myzork\entity.h
+	"Item.h"
+
+1526747620 d:\codepractice\myzork\item.h
+	<string>
+
+1526747343 source:d:\codepractice\myzork\entity.cpp
+	"Entity.h"
+
+1526747627 source:d:\codepractice\myzork\item.cpp
+	"Item.h"
+
+1526659701 source:d:\codepractice\myzork\main.cpp
+	<iostream>
+	<string>
+	"World.h"
+
+1447822876 d:\codepractice\myzork\world.h
+	<vector>
+	"Player.h"
+	"Enemy.h"
+	<time.h>
+	"Utils.h"
+
+1526747698 d:\codepractice\myzork\player.h
+	"Entity.h"
+	"Place.h"
+
+1526747111 d:\codepractice\myzork\place.h
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	"Enemy.h"
+
+1526747761 d:\codepractice\myzork\utils.h
+	<iostream>
+	"Item.h"
+	<time.h>
+	<stdlib.h>
+
+1526747671 source:d:\codepractice\myzork\place.cpp
+	"place.h"
+
+1526747731 source:d:\codepractice\myzork\player.cpp
+	"Player.h"
+
+1526747799 source:d:\codepractice\myzork\utils.cpp
+	"Utils.h"
+
